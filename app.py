@@ -3,7 +3,7 @@ import gradio as gr
 
 # The library and API Key is added
 import google.generativeai as genai
-GOOGLE_API_KEY = "AIzaSyCZIj0y51O5FpM5-A5VWmui_SUtcJCcMWM"
+GOOGLE_API_KEY = "AIzaSyC81M9HC6P0DV4qJ-uzKpyziE_o3X0JNMQ"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Model configuration
